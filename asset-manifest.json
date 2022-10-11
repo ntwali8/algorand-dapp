@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/$%7Balgorand-dapp%7D/static/css/main.e1ce61ea.chunk.css",
+    "main.js": "/$%7Balgorand-dapp%7D/static/js/main.256a9146.chunk.js",
+    "main.js.map": "/$%7Balgorand-dapp%7D/static/js/main.256a9146.chunk.js.map",
+    "runtime-main.js": "/$%7Balgorand-dapp%7D/static/js/runtime-main.72298568.js",
+    "runtime-main.js.map": "/$%7Balgorand-dapp%7D/static/js/runtime-main.72298568.js.map",
+    "static/css/2.047ac252.chunk.css": "/$%7Balgorand-dapp%7D/static/css/2.047ac252.chunk.css",
+    "static/js/2.936131d0.chunk.js": "/$%7Balgorand-dapp%7D/static/js/2.936131d0.chunk.js",
+    "static/js/2.936131d0.chunk.js.map": "/$%7Balgorand-dapp%7D/static/js/2.936131d0.chunk.js.map",
+    "static/js/3.85d8563f.chunk.js": "/$%7Balgorand-dapp%7D/static/js/3.85d8563f.chunk.js",
+    "static/js/3.85d8563f.chunk.js.map": "/$%7Balgorand-dapp%7D/static/js/3.85d8563f.chunk.js.map",
+    "index.html": "/$%7Balgorand-dapp%7D/index.html",
+    "static/css/2.047ac252.chunk.css.map": "/$%7Balgorand-dapp%7D/static/css/2.047ac252.chunk.css.map",
+    "static/css/main.e1ce61ea.chunk.css.map": "/$%7Balgorand-dapp%7D/static/css/main.e1ce61ea.chunk.css.map",
+    "static/js/2.936131d0.chunk.js.LICENSE.txt": "/$%7Balgorand-dapp%7D/static/js/2.936131d0.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/$%7Balgorand-dapp%7D/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.2d312449.jpg": "/$%7Balgorand-dapp%7D/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72298568.js",
+    "static/css/2.047ac252.chunk.css",
+    "static/js/2.936131d0.chunk.js",
+    "static/css/main.e1ce61ea.chunk.css",
+    "static/js/main.256a9146.chunk.js"
+  ]
+}
